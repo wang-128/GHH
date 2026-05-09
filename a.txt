@@ -1,6 +1,11 @@
 Hello world
+ HEAD
 I don’t like pop music
 Hello world
 I don’t like pop music
 master branch line
 master line after merge
+Hello world
+This is from dev branch
+dev line after merge
+ dev
